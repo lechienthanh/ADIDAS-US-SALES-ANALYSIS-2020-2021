@@ -1,0 +1,4 @@
+- Compare retail sales of brands through distribution agents and sales methods. 
+- Compare revenue across months, states, and gender. 
+- Show the cause and analyze.
+- [Presentation](https://www.canva.com/design/DAFilN9DWpA/PVv274Miv7nMXSU5Xzrguw/edit?utm_content=DAFilN9DWpA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
