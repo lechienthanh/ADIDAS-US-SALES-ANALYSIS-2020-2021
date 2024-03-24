@@ -1,3 +1,7 @@
+- Preprocessing data raw with SQL.
+- Manage relationships between tables.
+- Connect MySQL database to Power BI.
+- visualization.
 - Compare retail sales of brands through distribution agents and sales methods. 
 - Compare revenue across months, states, and gender. 
 - Show the cause and analyze.
